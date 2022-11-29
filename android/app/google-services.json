@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "758937206664",
+    "firebase_url": "https://nightcanteen-2482f-default-rtdb.firebaseio.com",
+    "project_id": "nightcanteen-2482f",
+    "storage_bucket": "nightcanteen-2482f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758937206664:android:5d848d8fe8fae7a163443d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758937206664-pgncrqloi9sgi9pchr43j1s52ub57q41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNBy54H-bvcj1TCxvPeQa0V9Hg6_HvIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758937206664-pgncrqloi9sgi9pchr43j1s52ub57q41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758937206664:android:126e25b03116f10f63443d",
+        "android_client_info": {
+          "package_name": "com.example.night_canteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758937206664-nejblaosqsa9qk5gm8e0llled8kn6r00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.night_canteen",
+            "certificate_hash": "944d1a89c7e3fd63d18faf0b8c7e0f0a336d7b1b"
+          }
+        },
+        {
+          "client_id": "758937206664-pgncrqloi9sgi9pchr43j1s52ub57q41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNBy54H-bvcj1TCxvPeQa0V9Hg6_HvIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758937206664-pgncrqloi9sgi9pchr43j1s52ub57q41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758937206664:android:9991a077078334da63443d",
+        "android_client_info": {
+          "package_name": "com.example.night_canteen_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758937206664-pgncrqloi9sgi9pchr43j1s52ub57q41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNBy54H-bvcj1TCxvPeQa0V9Hg6_HvIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758937206664-pgncrqloi9sgi9pchr43j1s52ub57q41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
